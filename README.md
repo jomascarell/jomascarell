@@ -4,7 +4,7 @@
 - 🛠️ I love everything about grid systems and all things CSS.
 - 📫 Find me on: [joan.design](URL) · [linkedin](https://www.linkedin.com/in/joanmascarelljuan/) · [email](mailto:jmjvilallonga@gmail.com) 
 - ⚡ Outside of design, you can find me on [Strava](https://www.strava.com/athletes/125006587), or on the peak of some random mountain.
-- 📃 Grab my resumé while you're here:
+- 📃 Grab my resumé while you're here: [English](./cv/CV_JoanMascarell_EN.pdf) · [Català](./cv/CV_JoanMascarell_CAT.pdf) · [Castellano](./cv/CV_JoanMascarell_ES.pdf)
 <!--
 **jomascarell/jomascarell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
