@@ -2,7 +2,7 @@
 - ⭐ Designer crafting UI for the web.
 - 🌍 Based in València, Spain.
 - 🛠️ I love everything about grid systems and all things CSS.
-- 📫 Find me on: [joan.design](URL) · [linkedin](https://www.linkedin.com/in/joanmascarelljuan/) · [email](mailto:jmjvilallonga@gmail.com) 
+- 📫 Find me on: [joanmascarell](https://joanmascarell.dev/) · [linkedin](https://www.linkedin.com/in/joanmascarelljuan/) · [email](mailto:jmjvilallonga@gmail.com) 
 - ⚡ Outside of design, you can find me on [Strava](https://www.strava.com/athletes/125006587), or on the peak of some random mountain.
 - 📃 Grab my resumé while you're here: [English](CV_JoanMascarell_EN.pdf) · [Catalan](CV_JoanMascarell_CAT.pdf) · [Spanish](CV_JoanMascarell_ES.pdf)
 <!--
